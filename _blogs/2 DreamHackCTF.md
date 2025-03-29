@@ -7,4 +7,4 @@ tags:
   - jeopardy
 ---
 
-The CTF [writeup](https://giddy-individual-712.notion.site/DreamHacks-CTF-02-21-2025-1a279eed867) for DreamHacks CTF that happened on Feb 21, 2025. 
+The CTF [writeup](https://giddy-individual-712.notion.site/DreamHacks-CTF-02-21-2025-1a279eed867e80bc9af6cb94813c192f?pvs=4) for DreamHacks CTF that happened on Feb 21, 2025. 
